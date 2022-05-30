@@ -1,0 +1,8 @@
+name: HungerGamesRecoded
+version: '${project.version}'
+main: xyz.lightning.hungergames.hungergames.HungerGames
+api-version: 1.18
+softdepend: [ Multiverse-Core, MultiWorld, Vault, My_Worlds, GoldenEnchants, mcMMO, MythicMobs, PlaceholderAPI, XConomy, PartyAndFriends, Spigot-Party-API-PAF, Parties ]
+authors: [ JT122406 ]
+description: Minecraft HungerGames
+website: http://web.lightning-mc.xyz/
